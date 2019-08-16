@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565939227307.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "541196193",
+    "id" : "FB186721",
+    "lastKnownWriteTime" : 1565939224,
+    "last_content_update" : 1565939224,
+    "path" : "~/rstan_learn/summary.txt",
+    "project_path" : "summary.txt",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565931255803.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B80D168B",
+    "lastKnownWriteTime" : 1565937318,
+    "last_content_update" : 1565937318767,
+    "path" : "~/rstan_learn/lin_model.stan",
+    "project_path" : "lin_model.stan",
+    "properties" : {
+        "cursorPosition" : "20,1",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "stan"
+}
